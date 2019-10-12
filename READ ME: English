@@ -1,0 +1,15 @@
+Here's a step-by-step usage guide for WSL (Win10 Linux subsystem), where you'll learn:
+How to install a desktop environment for WSL (to run a graphical interface program)
+Solve common problems in WSL
+  Deploy some automation with scripts
+......
+Before you begin, you need to know:
+Using WSL means that you need to understand the underlying operation of a Linux system, and WSL Guideline does not explain the underlying operation of a Linux system.
+Although WSL is powerful, as a subsystem there are still some underlying limitations, WSL can not completely replace The Linux distribution
+Let's go!
+WSL Use Guide (Chinese)
+
+WSL Guideline (English Version Not Started)
+Because of the time is short and the level is limited, if there are omissions, please do not hesitate to teach!
+
+The article for this project will also be published in my Knowledge column This work is licensed under a Knowledge Sharing signature - non-commercial use - the same way as a shared 4.0 international license agreement. Reprint, use, and republish, but always keep the signature Wang Jiaxiang (includes link: https://github.com/iWangJiaxiang/WSL-Guideline) and should not be used for commercial purposes. Works modified based on this article must be published with the same license. If you have any questions, please contact me.
